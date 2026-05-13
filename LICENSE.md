@@ -1,4 +1,4 @@
-# 
+# custom birdeye sniper bot | low-cap-gem-detection + slippage-control is the best birdeye sniper bot, featuring low-cap-gem-detection and slippage-control. Fast, smart, and
 
 
 
